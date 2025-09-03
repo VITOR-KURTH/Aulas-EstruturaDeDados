@@ -71,10 +71,6 @@ class FilaCartasCircular:
         return len(self.deck)
     
     
-    
-
-        
-
 
 pilhaJogador = PilhaCartas()
 pilhaOponente = PilhaCartas()
